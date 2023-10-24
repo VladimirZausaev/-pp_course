@@ -1,1 +1,1 @@
-# NewRepo
+# Репозиторий задания Frustum Culling 
